@@ -33,26 +33,3 @@ Git status will tell you if you have any changes and if it was committed to the 
 7. What is the Git command to get changes from Github onto your computer?
 
 Git log allows you to see all the changes of your git repo.
-[33mcommit 5eea239bbe612b018847231f9181a66bd0f2cc02[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
-Author: Chris Owen <chris.owen@codeyourfuture.io>
-Date:   Wed Feb 17 17:33:31 2021 +0000
-
-    Update README.md
-
-[33mcommit dc156b5222f8013af81a353b6c4a60d30a66b0cf[m
-Author: Chris Owen <chris.owen@codeyourfuture.io>
-Date:   Fri Feb 12 13:16:22 2021 +0000
-
-    Update README.md
-
-[33mcommit 40cb337c6af25bf547eed2dfbe736d4ccc436bd5[m
-Author: Chris Owen <cowen1992@hotmail.co.uk>
-Date:   Fri Feb 12 13:07:11 2021 +0000
-
-    Add Quiz
-
-[33mcommit d749d6e27d7586678f3023af880a069dd845d8ef[m
-Author: Chris Owen <chris@thecodethatchriswrote.com>
-Date:   Fri Feb 12 11:36:56 2021 +0000
-
-    Initial commit
